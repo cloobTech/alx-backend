@@ -3,6 +3,7 @@
 """
 import csv
 from typing import List, Dict
+import math
 
 
 index_range = __import__('0-simple_helper_function').index_range
